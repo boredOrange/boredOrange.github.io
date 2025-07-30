@@ -1,2 +1,2 @@
 # boredOrange.github.io
-A personal website
+一个小透明的小网站😶
