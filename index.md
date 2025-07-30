@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="favicon.ico">
 # bored orange的小站
 ___
 #### 你可以在我的小站中看到许多我的东西......
